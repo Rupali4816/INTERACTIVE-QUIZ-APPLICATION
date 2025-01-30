@@ -22,7 +22,9 @@ MENTOR:NEELA SANTOSH
 5. Score Tracking: Users can view their scores and progress after completing a quiz.
 6. Leaderboard: A leaderboard displays the top-scoring users.
 
-A quiz application can serve various purposes and offer numerous benefits to users. It can be an engaging and interactive way to learn new concepts, subjects, or skills, helping students prepare for exams, assessments, or certifications. Additionally, quizzes can be used to assess a user's knowledge, understanding, or skills in a particular area, identifying strengths, weaknesses, and areas for improvement. 
+A quiz application can serve various purposes and offer numerous benefits to users. It can be an engaging and interactive way to learn new concepts, subjects, or skills, helping students prepare for exams, assessments, or certifications. Additionally, quizzes can be used to assess a user's knowledge, understanding, or skills in a particular area, identifying strengths, weaknesses, and areas for improvement.
+
+
+![Image](https://github.com/user-attachments/assets/8d59e2e5-dada-4930-bc97-af8f55088539)
 
 ![Image](https://github.com/user-attachments/assets/44740684-053c-49c1-96f0-61c1df90893d)
-![Image](https://github.com/user-attachments/assets/8d59e2e5-dada-4930-bc97-af8f55088539)
